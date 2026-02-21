@@ -1,3 +1,1 @@
-este archivo es el secundaria, este es un documento
-
-Soy un colaborador
+Soy Julian, colaborador del proyecto desde la rama secundaria
